@@ -1,0 +1,24 @@
+﻿História projeto final:
+
+"Um bravo herói está à procura de uma grande conquista, ele soube de uma cabana amaldiçoada no meio da floresta."
+
+"Nesse momento ele está de frente para a porta dessa cabana e se prepara pra enfrentar o perigo."
+
+"Tudo e todos dentro deste cabana representa uma ameaça."
+
+"Digite o nome do herói: "
+(scanner)
+
+"Neste momento, " + heroi.nome + " adentra a sala principal, nela ele não percebe nada de anormal para uma velha cabana abandonada."
+
+"Apenas uma pequena escada que o leva a uma pequena bifurcação."
+
+"O caminho da esquerda o leva a uma pequena sala levemente escura na qual ele ouve um pequeno grunhido.
+ O da direita uma sala até que bem iluminada na qual ele pode perceber um ser de tamanho mediano."
+
+"Selecione qual caminho " + heroi.nome + " irá seguir: 
+ (utilize 0 para o pequeno caminho ou 1 para o segundo)"
+(scanner)
+
+1 leva pra uma sala de inimigos se ele sair vivo ganha a excalibur e se torna rei
+2 leva pra um aliado ferido que na realidade é um rei q o pagará para ser resgatado, cabe o herói decidir se o ataca ou ajuda, se atacar e morre morreu, se matar é amaldiçoado ambos perde o jogo
